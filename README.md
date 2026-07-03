@@ -1,16 +1,68 @@
-## Hi there 👋
+# Hi 👋 I'm Aditya Ahirrao
 
-<!--
-**Aditya728-ace/Aditya728-ace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## AI & Machine Learning Engineer
 
-Here are some ideas to get you started:
+🎓 Final Year Computer Engineering Student
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Interested in
+
+- Artificial Intelligence
+- Machine Learning
+- Computer Vision
+- Python Development
+- Android Development
+
+---
+
+## Tech Stack
+
+Python • Java • C++ • Flask • FastAPI • TensorFlow • PyTorch • YOLO • PostgreSQL • SQLite • HTML • CSS • JavaScript • Git
+
+---
+
+## Featured Projects
+
+### Guard-Eye
+AI-powered Smart Retail Checkout System
+
+- YOLOv8
+- Flask
+- PostgreSQL
+- OpenCV
+- OCR
+- Face Detection
+
+---
+
+### AI Student Performance Analysis
+
+Fine-tuned Qwen2.5-3B using LoRA
+
+- NLP
+- Transformers
+- PEFT
+- LoRA
+- HuggingFace
+
+---
+
+### G-Brain
+
+Context-aware AI chatbot with memory and token optimization.
+
+---
+
+## Currently Learning
+
+- RAG
+- LangChain
+- Multi-Agent AI
+- LLM Fine-Tuning
+
+---
+
+## Connect
+
+LinkedIn
+
+Email
